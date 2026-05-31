@@ -3,10 +3,6 @@
 **Software Architect** · **Full-Stack Engineer** · **AI-Assisted Delivery**
 
 I build production-ready software platforms from concept to deployment, with a focus on clean architecture, fast execution and measurable business results.
-<p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3200&amp;pause=700&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Software+Architecture+for+Scalable+Business+Platforms;Modernizing+Legacy+Systems+into+Cloud-Ready+Products;Full-Stack+Engineering+with+AI-Assisted+Delivery;Clean+APIs+%7C+Reliable+Deployments+%7C+Measurable+Business+Impact" alt="Professional typing intro" />
-</p>
-
 
 I specialize in modernizing legacy systems, designing scalable architectures and guiding teams from hard-to-maintain platforms to clean, modular, cloud-ready applications.
 
