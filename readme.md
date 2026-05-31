@@ -170,10 +170,3 @@ AI as an engineering multiplier:
 
 **Focus:** practical AI that helps ship better software faster.
 
----
-
-## Connect
-
-- **GitHub:** [@abrahamVado](https://github.com/abrahamVado)
-- **Location:** Mexico
-
