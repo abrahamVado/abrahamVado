@@ -4,7 +4,7 @@
 
 I build production-ready software platforms from concept to deployment, with a focus on clean architecture, fast execution and measurable business results.
 
-I specialize in modernizing legacy systems, designing scalable architectures and guiding teams from hard-to-maintain platforms to clean, modular, cloud-ready applications.
+Specialized in modernizing legacy systems, designing scalable architectures and guiding teams from hard-to-maintain platforms to clean, modular, cloud-ready applications.
 
 My work spans backend architecture, frontend engineering, mobile development, DevOps, cloud infrastructure and AI-assisted workflows.
 
