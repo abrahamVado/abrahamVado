@@ -137,13 +137,6 @@ AI as an engineering multiplier:
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
-| AI Capability | Tools | Delivery Value |
-|---------------|-------|----------------|
-| **Code Acceleration** | Codex, Copilot, Cursor, Cline | Faster implementation, refactoring and documentation across existing codebases |
-| **Architecture Support** | Claude, DeepSeek V4, DeepSeek V3 Pro, Gemma 4 | System design reviews, migration planning and technical decision support |
-| **Local AI Workflows** | Ollama, local models | Private experimentation, offline prototyping and controlled model evaluation |
-| **Testing Automation** | Playwright + AI workflows | Browser automation, regression coverage and faster validation cycles |
-| **Workflow Orchestration** | n8n, Rust CLI tools | Repeatable engineering processes, task automation and integration pipelines |
 
 **Focus:** practical AI that helps ship better software faster.
 
