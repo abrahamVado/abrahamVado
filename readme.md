@@ -10,25 +10,6 @@ My work spans backend architecture, frontend engineering, mobile development, De
 
 ---
 
-## Core Competencies
-
-| Area | Focus |
-|------|-------|
-| **Architecture** | Modular monoliths, API-first design, multi-tenant systems, legacy modernization |
-| **Backend** | Laravel, Go (Gin), Python (FastAPI/Django/Flask), Java (Spring Boot), Node.js, Rust |
-| **Frontend** | React, Next.js, TypeScript, JavaScript, jQuery migration |
-| **Mobile** | Flutter, Dart, Android |
-| **DevOps** | Docker, AWS, GitHub Actions, Linux, CD pipelines |
-| **Data** | PostgreSQL, MySQL, MariaDB, Redis |
-| **Quality** | REST APIs, OpenAPI/Swagger, TDD, Playwright |
-| **AI Tooling** | Codex, Cline, Copilot, Cursor, Claude, DeepSeek V4, DeepSeek V3 Pro, Gemma 4, Ollama, n8n |
-
----
-
-### Multi-Language Backend Strategy
-
-I design backend systems around business requirements, team capacity and operational constraints. The goal is not to use every language everywhere, but to choose the right runtime for each responsibility and keep the architecture maintainable over time.
-
 <table>
   <thead>
     <tr>
